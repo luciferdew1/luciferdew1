@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luciferdew1
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning ...CSS
 - 📫 How to reach me ...dewil.4ever@gmail.com
 
 <!---
